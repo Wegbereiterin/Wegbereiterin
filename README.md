@@ -33,6 +33,9 @@ After graduation, I plan to study and obtain an information processing engineer 
 
 <br/>
 
-#### E-MAIL
-sungu09@naver.com
+#### CONTACT
+**E-MAIL** sungu09@naver.com
+**INSTAGRAM** clo.old_b
+**GitHub** https://github.com/Wegbereiterin
+
 >>>>>>> 1b5c499 (hello)
