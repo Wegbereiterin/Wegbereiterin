@@ -1,6 +1,6 @@
 
-# SeonKoo PARK <br/>
-박선구
+# SeonKoo PARK
+# 박선구<br/>
 
 ## Seoul, South Korea
 
