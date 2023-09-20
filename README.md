@@ -2,10 +2,11 @@
 # *SeonKoo PARK* <br/>박선구
 
 
-## **박선구**	<br/>Seoul, South Korea
+## Seoul, South Korea
 
-### 1999.03.18
+
 > *"Tomorrow's me is responsible for today's me."*
+### 1999.03.18
 #### MBTI : ISFP
 
 <br/>
