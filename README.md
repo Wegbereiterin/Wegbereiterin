@@ -1,8 +1,8 @@
 
-# SeonKoo PARK
+# <center> SeonKoo PARK </center>
 
 
-## 박선구                                              Seoul, South Korea
+## 박선구Seoul, South Korea
 
 ### 1999.03.18
 > *"Tomorrow's me is responsible for today's me."*
