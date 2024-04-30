@@ -28,10 +28,7 @@ After graduation, I plan to study and obtain an information processing engineer 
 
 ## SKILLS
 - Language
-	- PYTHON
-	- C
-	- JAVA
-	- SWIFT(learning)
+	- Swift
 
 <br/>
 
