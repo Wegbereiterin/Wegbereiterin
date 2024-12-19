@@ -7,7 +7,7 @@
 
 > **"Tomorrow's me is responsible for today's me."**
 ### 1999.03.18
-#### MBTI : ISFP
+#### MBTI : INTJ
 
 <br/>
 
